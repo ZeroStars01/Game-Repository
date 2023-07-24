@@ -1,0 +1,428 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.34f1c2 (841de61e17c8) revision 8658406'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 15791 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.34f1c2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ww176/Desktop/AngryBirdsStyleGame-master/AngryBirdsStyleGame-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60325
+Successfully changed project path to: C:/Users/ww176/Desktop/AngryBirdsStyleGame-master/AngryBirdsStyleGame-master
+C:/Users/ww176/Desktop/AngryBirdsStyleGame-master/AngryBirdsStyleGame-master
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 98.02 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.34f1c2 (841de61e17c8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.34f1c2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ww176/Desktop/AngryBirdsStyleGame-master/AngryBirdsStyleGame-master/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   31.0.15.1640
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.34f1c2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.34f1c2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.34f1c2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.34f1c2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.34f1c2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004636 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 67.00 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.677 seconds
+Domain Reload Profiling:
+	ReloadAssembly (678ms)
+		BeginReloadAssembly (90ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (502ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (143ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (197ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (79ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.018644 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.251 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1252ms)
+		BeginReloadAssembly (176ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (998ms)
+			LoadAssemblies (136ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (298ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (438ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (119ms)
+				ProcessInitializeOnLoadAttributes (222ms)
+				ProcessInitializeOnLoadMethodAttributes (76ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Switching build target platform(20) subTarget(589825) extendedPlatform(0) -> platform(20) subTarget(65537) extendedPlatform(0)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2321 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 2706.
+Total: 7.199300 ms (FindLiveObjects: 0.316600 ms CreateObjectMapping: 0.114200 ms MarkObjects: 6.660800 ms  DeleteObjects: 0.106000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  buildTarget: platform 20, subtarget 65537, extendedPlatform 0 -> platform 20, subtarget 589825, extendedPlatform 0
+  graphicsApiMask: 256 -> 2304
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/WX-WASM-SDK/wechat-default/images/background.jpg
+  artifactKey: Guid(f6e6fd15ec66f4eb18f7baad107d43ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK/wechat-default/images/background.jpg using Guid(f6e6fd15ec66f4eb18f7baad107d43ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfd984564c79ec426b6958ed1b58d1d') in 0.083308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/WX-WASM-SDK/CHANGELOG.md
+  artifactKey: Guid(28f40a500a3f8441ab9cd7f003194f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK/CHANGELOG.md using Guid(28f40a500a3f8441ab9cd7f003194f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77357202ed63ab7dd4610af6589ce6bf') in 0.009802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 114.782186 seconds.
+  path: Assets/WX-WASM-SDK-V2
+  artifactKey: Guid(b40e0542a48b880419566c7cf63f201a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2 using Guid(b40e0542a48b880419566c7cf63f201a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a06069a47f358141fbf5932c4b8f1cc') in 0.005592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.772155 seconds.
+  path: Assets/WX-WASM-SDK
+  artifactKey: Guid(466945eea638d7d4886632565ab9e60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK using Guid(466945eea638d7d4886632565ab9e60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39182456f9edc11f02121a8ce0d7370d') in 0.004125 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010034 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.992 seconds
+Domain Reload Profiling:
+	ReloadAssembly (993ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (800ms)
+			LoadAssemblies (116ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (247ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (331ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (169ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2223 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.1 MB.
+System memory in use after: 94.3 MB.
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 2681.
+Total: 6.555100 ms (FindLiveObjects: 0.202800 ms CreateObjectMapping: 0.061200 ms MarkObjects: 6.237500 ms  DeleteObjects: 0.052600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1083ms)
+		BeginReloadAssembly (134ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (879ms)
+			LoadAssemblies (118ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (281ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (356ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (176ms)
+				ProcessInitializeOnLoadMethodAttributes (66ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2223 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 2684.
+Total: 7.159400 ms (FindLiveObjects: 0.238000 ms CreateObjectMapping: 0.062200 ms MarkObjects: 6.817300 ms  DeleteObjects: 0.040700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 90.211228 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/images/background.jpg
+  artifactKey: Guid(012e109526b5c473b82cc23b10b9786f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/images/background.jpg using Guid(012e109526b5c473b82cc23b10b9786f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '978ed74457cdcb52f04721b576d51fbc') in 0.033625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.399488 seconds.
+  path: Assets/Sprites/angry_birds_ocs_sprites__update__by_jared33-d5mg197.png
+  artifactKey: Guid(85aec2e11da99d141a70371bdb05d889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/angry_birds_ocs_sprites__update__by_jared33-d5mg197.png using Guid(85aec2e11da99d141a70371bdb05d889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8533f3f27ea08466a74724e342e44e4') in 0.062568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Packages/com.unity.purchasing/Icons/UnityEngine.Purchasing.IAPButtonIcon.png
+  artifactKey: Guid(55e457740fe60405dac77af143e1a867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.purchasing/Icons/UnityEngine.Purchasing.IAPButtonIcon.png using Guid(55e457740fe60405dac77af143e1a867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5695c4e7427a107b06e7fa35e51d90') in 0.011349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/rankBg.png
+  artifactKey: Guid(5161ca6e9256c4fb68516c9e5b5fbacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/rankBg.png using Guid(5161ca6e9256c4fb68516c9e5b5fbacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79a70fc616b421925a9435171005de8') in 0.012354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/avatar.png
+  artifactKey: Guid(43cab5e30ca41469fb7ac74ce3e2bbb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/avatar.png using Guid(43cab5e30ca41469fb7ac74ce3e2bbb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65746917f3dda017a97b2d2fc1c7ae41') in 0.011936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Sprites/smoke.tif
+  artifactKey: Guid(08f28e42a647e2a4cbd32e793359aa3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/smoke.tif using Guid(08f28e42a647e2a4cbd32e793359aa3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f9a609a1446a729b309f6a6505610c') in 0.015185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Sprites/forest/forest-2.png
+  artifactKey: Guid(468d6561c26710d4ea53e543c4fd3164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/forest/forest-2.png using Guid(468d6561c26710d4ea53e543c4fd3164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7f34ce07ccc7eef2c0c704d1250f08') in 0.112776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Sprites/slingshot.png
+  artifactKey: Guid(fc9f4d28cb364644bbf7a65e876a25d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/slingshot.png using Guid(fc9f4d28cb364644bbf7a65e876a25d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9325843bb57eab78f7539b15995306d4') in 0.017185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/button3.png
+  artifactKey: Guid(819158f6711aa422e9f8e377a78da886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/button3.png using Guid(819158f6711aa422e9f8e377a78da886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1102fa78ac7d5c0fd4119655d3a61c3f') in 0.009486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Sprites/backgrounds/sky (z -3).png
+  artifactKey: Guid(256bec8399ecebb4db1c854d537f7d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/backgrounds/sky (z -3).png using Guid(256bec8399ecebb4db1c854d537f7d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9807275813975f279fee85a25695f80') in 0.015411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Sprites/backgrounds/bg_1 (z -1).png
+  artifactKey: Guid(ead9f96d7c15196469b34d7ce40eb2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/backgrounds/bg_1 (z -1).png using Guid(ead9f96d7c15196469b34d7ce40eb2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9191015628f87c5a4aabe4852209233') in 0.016104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/button1.png
+  artifactKey: Guid(d5275e7e4eef64c0aa3b783fa64497af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/button1.png using Guid(d5275e7e4eef64c0aa3b783fa64497af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b42ffd6485929e2b63fb50207e4f00') in 0.009710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Packages/com.unity.purchasing/Icons/LinkBlack.png
+  artifactKey: Guid(33d3dd2c39dfd49a3b2d36b20225624a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.purchasing/Icons/LinkBlack.png using Guid(33d3dd2c39dfd49a3b2d36b20225624a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c905c70bc86c66705d6299cc7d35b3') in 0.009853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Sprites/backgrounds/middleground (z 0).png
+  artifactKey: Guid(5c7dfc88de15b384ebdb2f6ec5fb3b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/backgrounds/middleground (z 0).png using Guid(5c7dfc88de15b384ebdb2f6ec5fb3b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129735e6352f5b0588bf7f6f12d1d136') in 0.015863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/shareBg.png
+  artifactKey: Guid(59be23cc8443a47078fd0597896455ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/shareBg.png using Guid(59be23cc8443a47078fd0597896455ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b658d12fbcd9437e19d72fd375bbb7c') in 0.010600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Sprites/small_helmet_pig_sprites_by_chinzapep-d57z4bs.png
+  artifactKey: Guid(48b9a7d0cd9d52247a469bfd3e3e3c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/small_helmet_pig_sprites_by_chinzapep-d57z4bs.png using Guid(48b9a7d0cd9d52247a469bfd3e3e3c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea49632effa8eaad99da6170aa6b780') in 0.045282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/rankAvatar.png
+  artifactKey: Guid(2310bbbb1178d4bceaf7accf34103c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/rankAvatar.png using Guid(2310bbbb1178d4bceaf7accf34103c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a7b16d4cb5c74df0abedf60140923c') in 0.010870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Sprites/forest/forest-1.png
+  artifactKey: Guid(01d568cef5ea30f4185185b4739f17ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/forest/forest-1.png using Guid(01d568cef5ea30f4185185b4739f17ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c9b49284755a7160e4f8353894e2862') in 0.086047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/button2.png
+  artifactKey: Guid(8dc06172b6d8b41f6a10406a19a20288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/button2.png using Guid(8dc06172b6d8b41f6a10406a19a20288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371de6685aac16d50b94f680b3fd220b') in 0.010386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/nameBg.png
+  artifactKey: Guid(5efd64a30e2da43eda80b76f385765b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/nameBg.png using Guid(5efd64a30e2da43eda80b76f385765b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179e909240e437ed4d8b2ee0a5594f70') in 0.009681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Packages/com.unity.purchasing/Icons/LinkWhite.png
+  artifactKey: Guid(e679a29ca22bc4fa0bd848bd79a42b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.purchasing/Icons/LinkWhite.png using Guid(e679a29ca22bc4fa0bd848bd79a42b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3649d57f4d3c70eadce7d07cc365423') in 0.008590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Sprites/Blocks/INGAME_BLOCKS_WOOD_1.png
+  artifactKey: Guid(661fe1e67fba6a142bdac97a379ce414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Blocks/INGAME_BLOCKS_WOOD_1.png using Guid(661fe1e67fba6a142bdac97a379ce414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96669da3d00f18bb6f4cd9903ee96d5b') in 0.112233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/images/unity_logo.png
+  artifactKey: Guid(aca4d534448ce4e6a8cbaa9db707dab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/images/unity_logo.png using Guid(aca4d534448ce4e6a8cbaa9db707dab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7b31a9d39f89e7c4a35c802c733e88') in 0.008859 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/shareBg2.png
+  artifactKey: Guid(fba1a8a26fb88491a8864a9824ef6d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Runtime/wechat-default/open-data/render/image/shareBg2.png using Guid(fba1a8a26fb88491a8864a9824ef6d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e66a60ba102a82eb6e94204a4c425f5') in 0.009116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 821.320582 seconds.
+  path: Assets/WX-WASM-SDK-V2/Editor/MiniGameConfig.asset
+  artifactKey: Guid(38d8fc3568a2dbe45b7e9571c7c38cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WX-WASM-SDK-V2/Editor/MiniGameConfig.asset using Guid(38d8fc3568a2dbe45b7e9571c7c38cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e7fdf8d4fbdba39047f96bfda25ac3') in 0.011222 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
